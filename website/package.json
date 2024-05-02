@@ -2,6 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
     "ace-builds": "^1.4.14",
